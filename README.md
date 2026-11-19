@@ -52,7 +52,7 @@ Vue 3 SPA (vue-router, axios)  ──►  API REST Laravel  ──►  SQLite / 
 
 ## Test
 
-15 test PHPUnit sull'API: totali e numerazione, scarico del magazzino alla conferma, giacenza insufficiente senza modifiche parziali, annullo con reso, transizioni non valide, permessi per ruolo, partita IVA, PDF, login con sessione.
+26 test PHPUnit: 15 test dell'API (totali e numerazione, scarico del magazzino alla conferma, giacenza insufficiente senza modifiche parziali, annullo con reso, transizioni non valide, permessi per ruolo, partita IVA, PDF, login con sessione) e 11 test unitari (transizioni di stato, partita IVA).
 GitHub Actions esegue i test e la build del front-end a ogni push.
 
 ```bash
