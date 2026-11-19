@@ -5,7 +5,7 @@ Back-end **Laravel 13** con API REST, front-end **Vue 3** (single page app). Rea
 
 ![Panoramica](docs/dashboard.png)
 
-**Prova la demo:** accedi come *Amministratore* o *Operatore* con un clic dalla pagina di login
+**[▶ Demo live](https://gestionale-ordini-a7o8.onrender.com)** (server gratuito: la prima apertura può richiedere fino a un minuto) · accedi come *Amministratore* o *Operatore* con un clic dalla pagina di login
 (`admin@ordinato.test` / `password`, `operatore@ordinato.test` / `password`). I dati demo si ripristinano a ogni riavvio.
 
 ## Funzionalità
